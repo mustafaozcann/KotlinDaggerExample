@@ -1,6 +1,8 @@
 
 
-## Dagger, Android uygulamaları için bir bağımlılık enjeksiyon (Dependency Injection) çerçevesidir. Bu, uygulamanızda yer alan nesnelerin (objelerin) yaratımını ve yönetimini otomatikleştiren bir tasarım desenidir.
+## Dagger
+
+Android uygulamaları için bir bağımlılık enjeksiyon (Dependency Injection) çerçevesidir. Bu, uygulamanızda yer alan nesnelerin (objelerin) yaratımını ve yönetimini otomatikleştiren bir tasarım desenidir.
 
 Dagger, özellikle büyük ölçekli ve karmaşık Android uygulamalarında kullanılan, geliştiricilere birçok avantaj sağlayan bir çerçevedir. İşte Dagger'in kullanım avantajları:
 
